@@ -6,6 +6,7 @@ length = int(input("Enter password length: "))
 
 if length <= 0:
     print("Please enter valid length")
+    
 else:
     choice = "abcdefghijklmnopqrstuvwxyz"
     choice += "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
