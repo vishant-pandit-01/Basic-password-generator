@@ -1,2 +1,16 @@
-# Basic-password-generator
-A simple password generator built using Python and random module. Generates secure passwords based on user input length.
+# 🔐 Password Generator (Python)
+
+This is a simple password generator project built using Python.
+
+## 📌 Features
+- User inputs password length
+- Generates random password
+- Includes:
+  - Lowercase letters
+  - Uppercase letters
+  - Numbers
+  - Special characters
+
+## 🛠 Technologies Used
+- Python
+- random module
